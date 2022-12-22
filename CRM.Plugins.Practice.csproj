@@ -212,6 +212,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Debug\" />
+    <Folder Include="sasi\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Common\CRM.Common\CRM.Common.csproj">
